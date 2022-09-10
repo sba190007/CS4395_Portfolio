@@ -7,3 +7,6 @@ Portfolio containing class work for CS4395.
 ### Assignment 1: Text Processing With Python
 * [Overview](https://github.com/sba190007/CS4395_Portfolio/blob/33a6fcdb4ab6a7bad071452059c618cf556c54c1/Assignment1Overview.pdf)
 * [Python Script](https://github.com/sba190007/CS4395_Portfolio/blob/74d995f1f2fa0be7d430b005a9359c9e656a7f17/Homework1_sba190007.py)
+
+### Assignment 2: Exploring NLTK
+* [Colab python notebook](https://github.com/sba190007/CS4395_Portfolio/blob/cc6f7f3119fb8291edfd6f6baf0c7f1024caa25e/CS4395Portfolio2_sba190007ipynb%20-%20Colaboratory.pdf)

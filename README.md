@@ -25,4 +25,4 @@ extract the most common nouns. Those nouns are used to implement a game similar 
 one letter at a time and receives feedback. They can keep playing until they get negative ppints (too many wrong guesses) or input an
 exclamation point. 
 
-* [Python script] (https://github.com/sba190007/CS4395_Portfolio/blob/a8bde45748fefafef19d0e2a3f4471de8ae7b98a/GuessingGame_sba190007.py)
+* [Python script](https://github.com/sba190007/CS4395_Portfolio/blob/a8bde45748fefafef19d0e2a3f4471de8ae7b98a/GuessingGame_sba190007.py)

@@ -22,7 +22,14 @@ It was also good practice into writing a user-interactive program.
 
 A large text is taken in a sysarg, then the text is preprocessed to
 extract the most common nouns. Those nouns are used to implement a game similar to hangman, where the user guesses one of the words
-one letter at a time and receives feedback. They can keep playing until they get negative ppints (too many wrong guesses) or input an
+one letter at a time and receives feedback. They can keep playing until they get negative points (too many wrong guesses) or input an
 exclamation point. 
 
 * [Python script](https://github.com/sba190007/CS4395_Portfolio/blob/a8bde45748fefafef19d0e2a3f4471de8ae7b98a/GuessingGame_sba190007.py)
+
+### Assignment 4: WordNet
+This assignment was a great exploration of WordNet for understanding how language is organized. It was intesting to use specific examples to view the noun and verb hierarchies and get to know the different methods available in WordNet. I was particularly impressed with SentiWordNet, since the connotation/emotions behind words are often just as important as their definitions. 
+
+Through this assignment, I was also able to explore different word similarity algorithms, as well as get practice in identifying collocations with the mutual information formlua. 
+
+* [Python notebook](https://github.com/sba190007/CS4395_Portfolio/blob/aa61f164c81372c077823537a2a64fb91a142698/WordNetPortfolioAssignment_sba190007.pdf)

@@ -37,6 +37,6 @@ Through this assignment, I was also able to explore different word similarity al
 ### Assignment 5: N-Grams
 This assignment gave me the opportunity to learn about how n-grams are used to form probabilistic language models. Three training corpora in different languages were analysed to create unigram and bigram dictionaries, then those dictionaries were used to predict which language each line in a test file was. The results were compared to the solution containing what language each line was actually written in. 
 
-* [Program 1](https://github.com/sba190007/CS4395_Portfolio/blob/c01a1a8062f6cc0f029546bb0ba79311435a1514/NGrams_sba190007/Program1.py) creates the n-gram dictionaries
-* [Program 2](https://github.com/sba190007/CS4395_Portfolio/blob/c01a1a8062f6cc0f029546bb0ba79311435a1514/NGrams_sba190007/Program2.py) uses the dictionaries to build a language model
+* [Program 1](https://github.com/sba190007/CS4395_Portfolio/blob/729b4ad508a558a31970f1dfaa330f13414464ed/NGrams_sba190007/Program1_sba190007.py) creates the n-gram dictionaries
+* [Program 2](https://github.com/sba190007/CS4395_Portfolio/blob/729b4ad508a558a31970f1dfaa330f13414464ed/NGrams_sba190007/Program2_sba190007.py) uses the dictionaries to build a language model
 * The [narrative](https://github.com/sba190007/CS4395_Portfolio/blob/c01a1a8062f6cc0f029546bb0ba79311435a1514/CS4395NGramsNarrative.pdf) is a written reflection on the utility of n-grams and language models.

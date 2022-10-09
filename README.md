@@ -40,3 +40,10 @@ This assignment gave me the opportunity to learn about how n-grams are used to f
 * [Program 1](https://github.com/sba190007/CS4395_Portfolio/blob/729b4ad508a558a31970f1dfaa330f13414464ed/NGrams_sba190007/Program1_sba190007.py) creates the n-gram dictionaries
 * [Program 2](https://github.com/sba190007/CS4395_Portfolio/blob/729b4ad508a558a31970f1dfaa330f13414464ed/NGrams_sba190007/Program2_sba190007.py) uses the dictionaries to build a language model
 * The [narrative](https://github.com/sba190007/CS4395_Portfolio/blob/c01a1a8062f6cc0f029546bb0ba79311435a1514/CS4395NGramsNarrative.pdf) is a written reflection on the utility of n-grams and language models.
+
+### Assignment 6: Web Crawler
+This assignment resulted in a knowledge base about cakes/baking from the Preppy Kitchen's blog and associated webpages. Web crawling and web scraping functions were used to crawl the blog and extract key terms, then use those terms to create a dictionary of sentences containing those terms. Beautiful Soup and NLTK were used to extract the text from the pages and process them. 
+
+* [Python script](https://github.com/sba190007/CS4395_Portfolio/blob/ebb59a2f3456bf9f678f06c10cadbd3be794c86a/WebCrawler_sba190007/WebCrawler_sba190007.py) crawls from a starting link and creates a knowledge base by scraping relevant links.
+* The [report](https://github.com/sba190007/CS4395_Portfolio/blob/ebb59a2f3456bf9f678f06c10cadbd3be794c86a/WebCrawler_sba190007/CS4395WebCrawlerReport_sba190007.pdf) displays the knowledge base, discusses how the knowledge base was created, and provides a sample dialog that could be created with a chatbox and the knowledge base. 
+

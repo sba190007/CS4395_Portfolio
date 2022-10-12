@@ -47,3 +47,11 @@ This assignment resulted in a knowledge base about cakes/baking from the Preppy 
 * [Python script](https://github.com/sba190007/CS4395_Portfolio/blob/ebb59a2f3456bf9f678f06c10cadbd3be794c86a/WebCrawler_sba190007/WebCrawler_sba190007.py) crawls from a starting link and creates a knowledge base by scraping relevant links.
 * The [report](https://github.com/sba190007/CS4395_Portfolio/blob/ebb59a2f3456bf9f678f06c10cadbd3be794c86a/WebCrawler_sba190007/CS4395WebCrawlerReport_sba190007.pdf) displays the knowledge base, discusses how the knowledge base was created, and provides a sample dialog that could be created with a chatbox and the knowledge base. 
 
+### Assignment 7: Syntax Parsing
+Rather than a program, this assignment was more an exploration into various types of syntax parsing for sentences. The example sentence:
+
+"The mouse baked a small cookie by mixing flour and sugar in a yellow bowl"
+
+is used to demonstrate a PSG tree, dependency parse, and SRL parse. The various relations, modifiers, and other terms that relate the parts of the sentence for each parse are defined as well. 
+
+* The [document](https://github.com/sba190007/CS4395_Portfolio/blob/d6216457bc0298eff090d3b0faed39bae3744859/CS4395Portfolio_SyntaxParsing_sba190007.pdf) uses the example sentence to conceptually understand the various parses and includes a reflection on the pros and cons of each parse. 

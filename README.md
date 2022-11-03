@@ -55,3 +55,8 @@ Rather than a program, this assignment was more an exploration into various type
 is used to demonstrate a PSG tree, dependency parse, and SRL parse. The various relations, modifiers, and other terms that relate the parts of the sentence for each parse are defined as well. 
 
 * The [document](https://github.com/sba190007/CS4395_Portfolio/blob/d6216457bc0298eff090d3b0faed39bae3744859/CS4395Portfolio_SyntaxParsing_sba190007.pdf) uses the example sentence to conceptually understand the various parses and includes a reflection on the pros and cons of each parse. 
+
+### Assignment 8: Author Attribution
+This assignment was my first experience using machine learning tools. A csv file containing a collection of the Federalist Papers along with their authors is given to the program, which converts the author column into categorical data. Train and test are divided, with 80% in train, then are input into the Naive Bernoulli Bayes model, logistic regression, and a neural network. The accuracies of the predictions are compared.
+
+* The [Python notebook](https://github.com/sba190007/CS4395_Portfolio/blob/9f8ceb7711783bf0679fca69554154b53406c7e9/CS4395AuthorAttribution_sba190007.ipynb%20-%20Colaboratory.pdf) was written in Google Colab and demonstrates various methods of going about author attribution using tools from sklearn.

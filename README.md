@@ -60,3 +60,16 @@ is used to demonstrate a PSG tree, dependency parse, and SRL parse. The various 
 This assignment was my first experience using machine learning tools. A csv file containing a collection of the Federalist Papers along with their authors is given to the program, which converts the author column into categorical data. Train and test are divided, with 80% in train, then are input into the Naive Bernoulli Bayes model, logistic regression, and a neural network. The accuracies of the predictions are compared.
 
 * The [Python notebook](https://github.com/sba190007/CS4395_Portfolio/blob/9f8ceb7711783bf0679fca69554154b53406c7e9/CS4395AuthorAttribution_sba190007.ipynb%20-%20Colaboratory.pdf) was written in Google Colab and demonstrates various methods of going about author attribution using tools from sklearn.
+
+https://github.com/sba190007/CS4395_Portfolio/blob/b58b155f51f8d67061b447c473dd9f9e4630ab13/CS4395_ACLPaperSummary_sba190007.pdf
+
+### Assignment 9: Chatbot
+This assignment was to create a chatbot. My project is called BakeBot, a chatbot that converses with the user about baking. BakeBot can tell the user what recipes it knows as well as the tools needed to bake, specific ingredients like flour and sugar, how they are combined to make batter, and how long the batter should bake for. Its knowledge base was derived from a previous portfolio assignment where the blog of baker John Kanell of Preppy Kitchen (https://preppykitchen.com/) was crawled to find the most commonly used terms in baking recipes and examples of sentences associated with them. BakeBot is also trained with user inputs when the user expresses something that can be used for a personalized response (such as a like or dislike).
+
+BakeBot was created using ChatterBot (https://chatterbot.readthedocs.io/en/stable/#), a Python library that implements machine learning algorithms to select the best response to a user input based on training lists of example conversations. ChatterBot is not currently being maintained which resulted in many dependency issues, so I used a previous version of ChatterBot that is compatible with spaCy. NLTK was used as well.
+
+* [Report] (https://github.com/sba190007/CS4395_Portfolio/blob/9ce5d8b7307ef0fd14dc71191eb9ef28aee94f77/CS4395_Chatbot_sba190007/CS4395_ChatBotReport_sba190007.pdf)
+* [Code] (https://github.com/sba190007/CS4395_Portfolio/blob/9ce5d8b7307ef0fd14dc71191eb9ef28aee94f77/CS4395_Chatbot_sba190007/cs4395_chatbot_sba190007.py) (Python, written in Google Colab)
+
+### Assignment 10: ACL Paper Summary
+This [ACL paper summary] (https://github.com/sba190007/CS4395_Portfolio/blob/b58b155f51f8d67061b447c473dd9f9e4630ab13/CS4395_ACLPaperSummary_sba190007.pdf) was an extremely interesting look into NLP outside of this class, specifially ACL conferences where so much learning and sharing of work is being done to contribute to NLP. I chose this paper about the TellMeWhy dataset that aims to address why-questions in narratives because it described a section of NLP where there is an integration of common knowledge, fiction, and understanding of character motive in texts. I love reading and was very excited to see the work being done for reasoning in stories. Reasoning is such a human skill and this paper seems like a great leap forward in applying this to technology. 

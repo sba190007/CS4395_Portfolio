@@ -61,8 +61,6 @@ This assignment was my first experience using machine learning tools. A csv file
 
 * The [Python notebook](https://github.com/sba190007/CS4395_Portfolio/blob/9f8ceb7711783bf0679fca69554154b53406c7e9/CS4395AuthorAttribution_sba190007.ipynb%20-%20Colaboratory.pdf) was written in Google Colab and demonstrates various methods of going about author attribution using tools from sklearn.
 
-https://github.com/sba190007/CS4395_Portfolio/blob/b58b155f51f8d67061b447c473dd9f9e4630ab13/CS4395_ACLPaperSummary_sba190007.pdf
-
 ### Assignment 9: Chatbot
 This assignment was to create a chatbot. My project is called BakeBot, a chatbot that converses with the user about baking. BakeBot can tell the user what recipes it knows as well as the tools needed to bake, specific ingredients like flour and sugar, how they are combined to make batter, and how long the batter should bake for. Its knowledge base was derived from a previous portfolio assignment where the blog of baker John Kanell of Preppy Kitchen (https://preppykitchen.com/) was crawled to find the most commonly used terms in baking recipes and examples of sentences associated with them. BakeBot is also trained with user inputs when the user expresses something that can be used for a personalized response (such as a like or dislike).
 
